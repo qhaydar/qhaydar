@@ -2,9 +2,7 @@
 
 <div align="center">
   
-### AI Engineer | Full-Stack Developer | Chrome Extension Specialist
-
-*Building intelligent applications that bridge AI capabilities with real-world user needs*
+### AI Engineer | Full-Stack Developer | Java 10+ Years Experience
 
 [![GitHub followers](https://img.shields.io/github/followers/qhaydar?style=social)](https://github.com/qhaydar)
 [![Profile Views](https://komarev.com/ghpvc/?username=qhaydar&color=blueviolet&style=flat-square)](https://github.com/qhaydar)
@@ -15,57 +13,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in **AI/ML applications**, **full-stack web development**, and **browser extensions**. I love creating production-ready tools that leverage cutting-edge AI technologies to solve real problems. My work focuses on making advanced AI accessible through intuitive interfaces and seamless integrations.
+I'm a passionate developer specializing in **AI applications** and **full-stack development**. I love creating tools that leverage cutting-edge AI technologies to solve real problems.
 
 🔭 **Currently working on:** AI-powered productivity tools and RAG-based applications  
 🌱 **Learning:** Advanced prompt engineering, vector databases, and LLM fine-tuning  
-💡 **Interests:** Conversational AI, Chrome Extensions, FastAPI, React, and Developer Tools  
-⚡ **Fun fact:** I build AI tools that help people write better emails, summarize content, and chat with their documents
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI/ML & Data
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-**Core Competencies:**
-- **RAG (Retrieval-Augmented Generation)** - Building context-aware AI systems
-- **Vector Databases** - Pinecone, ChromaDB for semantic search
-- **LLM Integration** - OpenAI GPT-3.5/4, Multi-LLM orchestration
-- **Fine-Tuning** - Custom model training and optimization
-- **Prompt Engineering** - Crafting effective prompts for various use cases
-- **Text Processing** - Document parsing, chunking, embeddings
-
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Skills:** REST APIs, Webhooks, Authentication, Server-Side Processing
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Skills:** Chrome Extensions (Manifest V3), Responsive Design, Framer Motion, Modern UI/UX
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-
-**Additional:** pytest, Jest, End-to-End Testing, CI/CD, Environment Management
+💡 **Interests:** Conversational AI and GenAI Applications
+⚡ **Fun fact:** Well...I just love building stuff!
 
 ---
 
@@ -142,18 +95,6 @@ Text-to-speech integration using ElevenLabs' realistic voice synthesis API.
 
 ---
 
-### 🌐 [Excetra Website](https://github.com/0xfauzi/excetra_site)
-Modern, premium web application with sleek UI/UX and smooth animations.
-
-**Tech Stack:** React • Vite • Tailwind CSS • Framer Motion  
-**Key Features:**
-- 🎨 Premium dark-themed design
-- ✨ Smooth scroll animations
-- 📱 Fully responsive layout
-- 🚀 Optimized performance
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -168,31 +109,6 @@ Modern, premium web application with sleek UI/UX and smooth animations.
 
 ---
 
-## 🎯 What I'm Working With
-
-**AI & Machine Learning**
-- OpenAI GPT-3.5/4 for conversational AI and text generation
-- RAG architectures for context-aware question answering
-- Vector databases (Pinecone) for semantic search
-- LangChain for LLM application development
-- Fine-tuning and prompt optimization
-
-**Web Development**
-- FastAPI for high-performance Python backends
-- React + Vite for modern frontend applications
-- Chrome Extension development (Manifest V3)
-- RESTful API design and integration
-- Webhook handling and real-time processing
-
-**Developer Tools**
-- Git version control and collaboration
-- pytest and Jest for comprehensive testing
-- Jupyter notebooks for experimentation
-- Environment-based configuration management
-- CI/CD best practices
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -200,7 +116,7 @@ Modern, premium web application with sleek UI/UX and smooth animations.
 [![GitHub](https://img.shields.io/badge/GitHub-qhaydar-181717?style=for-the-badge&logo=github)](https://github.com/qhaydar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-qhaydar.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qhaydar.github.io)
 
-**📧 Email:** Available on GitHub profile
+**LinkedIn:** https://www.linkedin.com/in/qrh/
 
 </div>
 
@@ -209,7 +125,5 @@ Modern, premium web application with sleek UI/UX and smooth animations.
 <div align="center">
 
 ### 💡 "Building the future, one AI-powered tool at a time"
-
-*Open to collaborations on AI/ML projects, Chrome extensions, and full-stack applications*
 
 </div>

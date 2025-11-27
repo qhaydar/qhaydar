@@ -4,9 +4,6 @@
   
 ### AI Engineer | Full-Stack Developer | Java 10+ Years Experience
 
-[![GitHub followers](https://img.shields.io/github/followers/qhaydar?style=social)](https://github.com/qhaydar)
-[![Profile Views](https://komarev.com/ghpvc/?username=qhaydar&color=blueviolet&style=flat-square)](https://github.com/qhaydar)
-
 </div>
 
 ---
@@ -103,8 +100,6 @@ Text-to-speech integration using ElevenLabs' realistic voice synthesis API.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qhaydar&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qhaydar&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -121,9 +116,3 @@ Text-to-speech integration using ElevenLabs' realistic voice synthesis API.
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "Building the future, one AI-powered tool at a time"
-
-</div>

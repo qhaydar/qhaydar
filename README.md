@@ -57,13 +57,13 @@ Chrome extension that drafts professional Gmail messages from natural language d
 ---
 
 ### 🔍 [Multi-LLM Comparison Tool](https://github.com/qhaydar/multi-llm-output-comparison-tool)
-Python utility for comparing outputs from multiple Large Language Models with the same prompt.
+Python utility for comparing outputs from multiple Large Language Models with the same prompt in parallel.
 
-**Tech Stack:** Python • OpenAI • Anthropic • Mistral  
+**Tech Stack:** Python • OpenAI GPT-5 • Anthropic Claude 3 • Google Gemini 3.0  
 **Key Features:**
-- 📊 Side-by-side output comparison
-- ⏱️ Latency and performance metrics
-- 💰 Cost tracking across providers
+- 📊 Side-by-side output comparison with async parallel execution
+- ⏱️ Latency and performance metrics for each model
+- 🔄 Conversation memory across all three models
 - 🎯 Perfect for model selection and prompt engineering
 
 ---

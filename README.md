@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in **AI applications** and **full-stack development**. I love creating tools that leverage cutting-edge AI technologies to solve real problems.
+I'm a passionate developer specialising in **AI applications** and **full-stack development**. I'm creating tools that leverage cutting-edge AI technologies to solve real problems.
 
 🔭 **Currently working on:** AI-powered productivity tools and RAG-based applications  
 🌱 **Learning:** Advanced prompt engineering, vector databases, and LLM fine-tuning  
 💡 **Interests:** Conversational AI and GenAI Applications
-⚡ **Fun fact:** Well...I just love building stuff!
 
 ---
 
@@ -33,7 +32,7 @@ Production-ready WhatsApp chatbot using **Retrieval-Augmented Generation** to an
 
 ---
 
-### 📝 [Chrome Extension Summarizer](https://github.com/qhaydar/chrome-extension-summariser)
+### 📝 [Chrome Extension Summariser](https://github.com/qhaydar/chrome-extension-summariser)
 AI-powered Chrome extension that generates concise summaries of highlighted text using GPT.
 
 **Tech Stack:** JavaScript • Chrome Extension API • OpenAI GPT-3.5  
@@ -76,7 +75,7 @@ Python chatbot with conversation memory and OpenAI fine-tuning capabilities.
 **Key Features:**
 - 🧠 Persistent conversation memory
 - 🎛️ Fine-tuning script with completion waiting
-- 😏 Customizable personality (sarcastic, helpful, etc.)
+- 😏 Customisable personality (sarcastic, helpful, etc.)
 - 📚 JSONL training data support
 
 ---
